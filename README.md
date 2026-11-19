@@ -97,3 +97,5 @@ print(class_report)
 
 
 ## Result
+Thus to compute descriptive statistics and probabilities using NumPy and Pandas successfully.
+
